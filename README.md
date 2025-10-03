@@ -1,4 +1,4 @@
-Visit the tool: [galinator9000.github.io/﻿artificialneural.network](https://galinator9000.github.io/artificialneural.network/)
+Visit the tool: [galinilin.github.io/﻿artificialneural.network](https://galinilin.github.io/artificialneural.network/)
 
 ## What even is this?
 
@@ -21,3 +21,4 @@ To get started;
 You can click on any of the neurons to see how strong their connections are and how they relate with each other.
 
 Play as you like!
+
